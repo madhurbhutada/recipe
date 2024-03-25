@@ -1,0 +1,41 @@
+*{
+    background-color: bisque;
+}
+
+#image{
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+    font-family: system-ui ,'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+.heading hr {
+    height: 1px;
+    width: 70%;
+    background: black;
+}
+
+.subheading{
+    font-weight: bold;
+    text-align: center;
+}
+
+.subheading .paragraphs{
+    text-align: justify;
+    font-weight: 100;
+    width: 60%;
+    margin: auto;
+    font-size: large;
+}
+
+.subheading .lists{
+    font-weight: 100;
+    display: table; 
+    margin: 0 auto;
+    text-align: justify;
+    font-size: large;
+}   
+
